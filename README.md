@@ -1,2 +1,0 @@
-# nastasia1alpl
-psets
